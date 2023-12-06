@@ -1,16 +1,12 @@
 # minimal_app
 
-A new Flutter project.
+ABM Clients for a technical test.
 
-## Getting Started
+## Project details
 
-This project is a starting point for a Flutter application.
+- UI 10hs
+- Login 3hs
+- ABM and search customers 15hs
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+//TODO: Upload avatar image
+//TODO: Test APP on multiple devices
