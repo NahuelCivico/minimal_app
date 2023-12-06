@@ -8,5 +8,6 @@ ABM Clients for a technical test.
 - Login 3hs
 - ABM and search customers 15hs
 
-//TODO: Upload avatar image
-//TODO: Test APP on multiple devices
+//TODO: 
+  - Upload avatar image
+  - Test APP on multiple devices
